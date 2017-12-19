@@ -23,3 +23,5 @@ temperature,machine=unit42,type=assembly external=25,internal=37 143406746700000
             "core4": 0.85
         }
     }
+
+	test 2017/12/19 17:58
